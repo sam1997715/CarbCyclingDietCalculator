@@ -1,0 +1,10 @@
+D:\Programs\C#\CarbCyclingDietCalculator\CarbCyclingDietCalculator\bin\Debug\CarbCyclingDietCalculator.exe.config
+D:\Programs\C#\CarbCyclingDietCalculator\CarbCyclingDietCalculator\bin\Debug\CarbCyclingDietCalculator.exe
+D:\Programs\C#\CarbCyclingDietCalculator\CarbCyclingDietCalculator\bin\Debug\CarbCyclingDietCalculator.pdb
+D:\Programs\C#\CarbCyclingDietCalculator\CarbCyclingDietCalculator\obj\Debug\CarbCyclingDietCalculator.csprojAssemblyReference.cache
+D:\Programs\C#\CarbCyclingDietCalculator\CarbCyclingDietCalculator\obj\Debug\CarbCyclingDietCalculator.Form1.resources
+D:\Programs\C#\CarbCyclingDietCalculator\CarbCyclingDietCalculator\obj\Debug\CarbCyclingDietCalculator.Properties.Resources.resources
+D:\Programs\C#\CarbCyclingDietCalculator\CarbCyclingDietCalculator\obj\Debug\CarbCyclingDietCalculator.csproj.GenerateResource.cache
+D:\Programs\C#\CarbCyclingDietCalculator\CarbCyclingDietCalculator\obj\Debug\CarbCyclingDietCalculator.csproj.CoreCompileInputs.cache
+D:\Programs\C#\CarbCyclingDietCalculator\CarbCyclingDietCalculator\obj\Debug\CarbCyclingDietCalculator.exe
+D:\Programs\C#\CarbCyclingDietCalculator\CarbCyclingDietCalculator\obj\Debug\CarbCyclingDietCalculator.pdb
