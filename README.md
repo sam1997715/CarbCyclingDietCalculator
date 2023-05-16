@@ -47,7 +47,7 @@
  <img decoding="async" src="https://raw.githubusercontent.com/sam1997715/CarbCyclingDietCalculator/main/%E8%AA%AA%E6%98%8E%E7%94%A8%E5%9C%96%E7%89%87/%E4%BB%8B%E9%9D%A22.png" width="50%">
  
  #### ⚠️需要注意的是⚠️活動量選項需要正確選擇
- 正確的選擇活動量才能有適切的
+ 正確的選擇活動量才能有適切的數值與目標
  ⚠️(也需要注意選項不得<u>刪減</u>與<u>變更</u>任何字元或空格，以免計算器給予錯誤數值)
  
  確認輸入無誤後，按下**計算**按鈕，便可以得到數值結果(如下圖)
